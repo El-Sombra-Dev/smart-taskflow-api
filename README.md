@@ -241,7 +241,7 @@ Run the application locally and open:
 ```text
 http://127.0.0.1:8000/docs
 ```
-
+![Smart TaskFlow API Swagger Documentation](assets/swagger-docs_2.png)
 ![Smart TaskFlow API Swagger Documentation](assets/swagger-docs.png)
 
 <div align="center">
